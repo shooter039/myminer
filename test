@@ -1,0 +1,6 @@
+echo "# myminer" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shooter039/myminer.git
+git push -u origin master
